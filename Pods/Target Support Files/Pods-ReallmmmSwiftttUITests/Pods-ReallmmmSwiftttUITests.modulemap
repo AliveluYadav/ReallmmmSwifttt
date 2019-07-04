@@ -1,0 +1,6 @@
+framework module Pods_ReallmmmSwiftttUITests {
+  umbrella header "Pods-ReallmmmSwiftttUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
